@@ -1,5 +1,5 @@
 export default {
-  buildDir: 'nuxt-dist',
+  buildDir: 'deploy',
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'blogApp',
